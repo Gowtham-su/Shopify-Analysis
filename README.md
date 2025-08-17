@@ -31,7 +31,7 @@ The project involves data cleaning, and insightful visual storytelling — all b
 
 ## 📘 About the Project
 
-This Power BI project analyzes **[LOAN DEFAULT DATASET]** using real-world data. It aims to deliver clear and actionable insights to help businesses make informed decisions using interactive and user-friendly visuals.
+This Power BI project analyzes **[SHOPIFY DATASET]** using real-world data. It aims to deliver clear and actionable insights to help businesses make informed decisions using interactive and user-friendly visuals.
 
 ---
 
