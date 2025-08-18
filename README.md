@@ -87,7 +87,7 @@ This Power BI project analyzes **[SHOPIFY DATASET]** using real-world data. It a
 You can view the dashboard in two ways:
 
 1. **Download the .pbix file** from this repo and open it using **Power BI Desktop**.
-2. **[Optional]** View the published version on Power BI Service (if you’ve published it):
+2. **[Optional]** View the published version on Power BI Service:
    - [Live Power BI Dashboard Link]([https://app.powerbi.com/links/lgtmjRnJM5?ctid=158ff991-c8c9-4606-9076-9b1113ad10d6&pbi_source=linkShare&bookmarkGuid=f6910d90-a4a5-44fd-94c4-deaba8342f6d])
 
 ---
